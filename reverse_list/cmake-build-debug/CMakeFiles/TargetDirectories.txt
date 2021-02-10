@@ -1,0 +1,3 @@
+C:/c++_dev/ClionProjects/reverse_list_yourself/cmake-build-debug/CMakeFiles/reverse_list_yourself.dir
+C:/c++_dev/ClionProjects/reverse_list_yourself/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/c++_dev/ClionProjects/reverse_list_yourself/cmake-build-debug/CMakeFiles/rebuild_cache.dir

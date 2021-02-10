@@ -1,0 +1,3 @@
+# Project exclude paths
+/eq_tree/cmake-build-debug/
+.idea/

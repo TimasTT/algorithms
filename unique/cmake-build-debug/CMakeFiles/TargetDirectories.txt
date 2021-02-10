@@ -1,0 +1,3 @@
+C:/c++_dev/ClionProjects/operators_yourself/cmake-build-debug/CMakeFiles/operators.dir
+C:/c++_dev/ClionProjects/operators_yourself/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/c++_dev/ClionProjects/operators_yourself/cmake-build-debug/CMakeFiles/rebuild_cache.dir
