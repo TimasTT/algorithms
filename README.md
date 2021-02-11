@@ -1,2 +1,2 @@
 # algorithms
-simple algorithms written without STL
+simple algorithms and collections written without STL
