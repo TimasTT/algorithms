@@ -1,0 +1,3 @@
+C:/c++_dev/ClionProjects/vectro_yourself/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/c++_dev/ClionProjects/vectro_yourself/cmake-build-debug/CMakeFiles/vectro_yourself.dir
+C:/c++_dev/ClionProjects/vectro_yourself/cmake-build-debug/CMakeFiles/rebuild_cache.dir
