@@ -1,0 +1,3 @@
+C:/c++_dev/ClionProjects/sorts/cmake-build-debug/CMakeFiles/sorts.dir
+C:/c++_dev/ClionProjects/sorts/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/c++_dev/ClionProjects/sorts/cmake-build-debug/CMakeFiles/rebuild_cache.dir
